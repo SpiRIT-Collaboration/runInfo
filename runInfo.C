@@ -41,7 +41,7 @@ void runInfo() {
   for (auto iIndex = 0; iIndex < fNumSn108; iIndex++)
     fSn108Index[fSn108[iIndex]] = iIndex;
 
-  for (auto iIndex = 0; iIndex < fNumSn242; iIndex++)
+  for (auto iIndex = 0; iIndex < fNumSn124; iIndex++)
     fSn124Index[fSn124[iIndex]] = iIndex;
 
   for (auto iIndex = 0; iIndex < fNumSn132; iIndex++)
